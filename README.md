@@ -588,3 +588,7 @@ https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-u
 https://microsoft.github.io/techcasestudies/azure%20app%20service/2016/12/08/Nexon-kor.html
 
 
+https://github.com/CloudBreadPaPa/soscon2016-ml/tree/master/data
+https://github.com/CloudBreadPaPa/soscon2016-ml/blob/master/data/game_data_utf_8.csv
+https://asiasoutheast.studio.azureml.net/
+https://github.com/CloudBreadPaPa/soscon2016-ml
