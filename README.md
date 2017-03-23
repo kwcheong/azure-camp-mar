@@ -570,26 +570,21 @@ api_key = 'AzureML이 제공하는 APIKey' # Replace this with the API key for t
 
 azure-camp-mar\demo\webapp-demo\php-webapp-publish
 
-dwkim @CloudBreadPaPa 10:54
 https://github.com/CloudBreadPaPa/azure-camp-mar
 http://requestb.in
 
-dwkim @CloudBreadPaPa 11:44
 https://www.getpostman.com/
 
-dwkim @CloudBreadPaPa 11:55
 http://editor.swagger.io/#!/
 
-dwkim @CloudBreadPaPa 13:10
 http://dw-api-mar-camp-01.azurewebsites.net/api/values
 
-dwkim @CloudBreadPaPa 13:54
 http://storageexplorer.com/
 
-dwkim @CloudBreadPaPa 14:27
 https://docs.microsoft.com/en-us/azure/storage/storage-dotnet-how-to-use-blobs
 
-dwkim @CloudBreadPaPa 15:09
 https://azure.microsoft.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/
+
+https://microsoft.github.io/techcasestudies/azure%20app%20service/2016/12/08/Nexon-kor.html
 
 
