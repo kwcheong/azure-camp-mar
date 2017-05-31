@@ -592,3 +592,10 @@ https://github.com/CloudBreadPaPa/soscon2016-ml/tree/master/data
 https://github.com/CloudBreadPaPa/soscon2016-ml/blob/master/data/game_data_utf_8.csv
 https://asiasoutheast.studio.azureml.net/
 https://github.com/CloudBreadPaPa/soscon2016-ml
+
+azure ad
+azure mfa(전화인증 추가 같은)
+RBAC ( roll base auth certi...)
+- 권한 오너/관람/손님- 포탈, power shell, azure cli
+New-AzureRoleAssingment ...
+
