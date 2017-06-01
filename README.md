@@ -599,3 +599,4 @@ RBAC ( roll base auth certi...)
 - 권한 오너/관람/손님- 포탈, power shell, azure cli
 New-AzureRoleAssingment ...
 
+
