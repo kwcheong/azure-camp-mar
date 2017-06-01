@@ -594,6 +594,7 @@ https://asiasoutheast.studio.azureml.net/
 https://github.com/CloudBreadPaPa/soscon2016-ml
 
 azure AD(Active Directory)
+
 *azure mfa(전화인증 추가 같은)
 *RBAC ( roll base auth certi...)
 - 권한 오너/관람/손님- 포탈, power shell, azure cli
@@ -601,3 +602,21 @@ azure AD(Active Directory)
 
 
 facebook.com/groups/kazuer
+
+loadbalancer 설정할때 가용성집함(avs-vm) 세팅 미리 해 놔야 함.
+
+
+족보관련
+141(vnet ip)
+169(scale sets -auto)
+193(scale set)
+97(vm extention script)
+65(vpn)
+66(vnet)
+80
+181
+182
+213
+62
+191
+216
