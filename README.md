@@ -1,4 +1,4 @@
-# azure camp mar
+﻿# azure camp mar
 이 repo는 2017년 3월 예정된 Azure dev camp 2일차 PaaS 과정에 대한 코드와 hands on 자료를 제공  
 
 ## Application 개발을 위한 Azure App Service  
@@ -593,10 +593,11 @@ https://github.com/CloudBreadPaPa/soscon2016-ml/blob/master/data/game_data_utf_8
 https://asiasoutheast.studio.azureml.net/
 https://github.com/CloudBreadPaPa/soscon2016-ml
 
-azure ad
-azure mfa(전화인증 추가 같은)
-RBAC ( roll base auth certi...)
+azure AD(Active Directory)
+*azure mfa(전화인증 추가 같은)
+*RBAC ( roll base auth certi...)
 - 권한 오너/관람/손님- 포탈, power shell, azure cli
-New-AzureRoleAssingment ...
+*power shell : New-AzureRoleAssingment ...
 
 
+facebook.com/groups/kazuer
