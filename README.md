@@ -593,6 +593,8 @@ https://github.com/CloudBreadPaPa/soscon2016-ml/blob/master/data/game_data_utf_8
 https://asiasoutheast.studio.azureml.net/
 https://github.com/CloudBreadPaPa/soscon2016-ml
 
+-----------------------
+
 azure AD(Active Directory)
 
 *azure mfa(전화인증 추가 같은)
@@ -620,3 +622,9 @@ loadbalancer 설정할때 가용성집함(avs-vm) 세팅 미리 해 놔야 함.
 62
 191
 216
+
+
+
+-----------------------
+
+ https://azure.microsoft.com/en-us/roadmap
