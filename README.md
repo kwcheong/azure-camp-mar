@@ -628,3 +628,14 @@ loadbalancer 설정할때 가용성집함(avs-vm) 세팅 미리 해 놔야 함.
 -----------------------
 
  https://azure.microsoft.com/en-us/roadmap
+ 
+ 
+ ----------------------------------
+R서버 (ms R, client R, server R )
+Spark 
+HaDoop 
+
+SQL + R서버
+
+ 
+ 
